@@ -513,6 +513,10 @@
 
     const active = hotspots.find((h) => h.id === selectedHotspotId) || hotspots[0];
     if (active) {
+      const mobileSummary = document.getElementById('hero-map-active-summary');
+      if (mobileSummary) {
+        mobileSummary.textContent = `${active.label} · ${active.sub}`;
+      }
       const pillsMarkup = hotspots
         .map((h) => {
           const isSel = h.id === active.id;
@@ -1780,9 +1784,17 @@
       btn.addEventListener('click', () => switchTab(btn.dataset.jumpTab));
     });
 
-    // Mobile menu toggle
+    // Mobile menu toggle & mobile drawer utility actions
     document.getElementById('mobile-menu-btn')?.addEventListener('click', () => {
       document.getElementById('main-nav')?.classList.toggle('is-open');
+    });
+    document.getElementById('mobile-replay-intro-btn')?.addEventListener('click', () => {
+      document.getElementById('main-nav')?.classList.remove('is-open');
+      playIntro();
+    });
+    document.getElementById('mobile-open-cms-btn')?.addEventListener('click', () => {
+      document.getElementById('main-nav')?.classList.remove('is-open');
+      openCms();
     });
 
     // Compact Territory Map expand/collapse toggle
