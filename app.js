@@ -1609,7 +1609,10 @@
   }
 
   function collectLocalPhotoPaths(data) {
-    const paths = new Set(['assets/photos/restore-britain-logo.png']);
+    const paths = new Set([
+      'assets/photos/restore-britain-logo.png',
+      'assets/photos/albion-rescom-banner.jpg'
+    ]);
     getPhotoLibrary().forEach((item) => {
       if (item.path && item.path.startsWith('assets/')) paths.add(item.path);
     });
@@ -1698,12 +1701,12 @@
       );
     }
 
-    const logoDataUri = embeddedPhotos['assets/photos/restore-britain-logo.png'];
-    if (logoDataUri) {
-      clone.querySelectorAll('img[src="assets/photos/restore-britain-logo.png"]').forEach((img) => {
-        img.setAttribute('src', logoDataUri);
-      });
-    }
+    clone.querySelectorAll('img[src^="assets/photos/"]').forEach((img) => {
+      const src = img.getAttribute('src');
+      if (src && embeddedPhotos[src]) {
+        img.setAttribute('src', embeddedPhotos[src]);
+      }
+    });
 
     const safeJson = JSON.stringify(siteData, null, 2).replace(/<\/(script)/gi, '<\\/$1');
     const photosPrefix = Object.keys(embeddedPhotos).length
