@@ -1,0 +1,474 @@
+{
+  "meta": {
+    "branchName": "Southend-on-Sea",
+    "fullTitle": "Restore Britain — Southend-on-Sea Branch",
+    "tagline": "Putting Southend & Britain First. Grassroots Action Across Every Ward.",
+    "coordinates": "51.5459° N · 0.7077° E",
+    "regionLabel": "Southend-on-Sea · Essex",
+    "email": "southend@restorebritain.org.uk",
+    "nationalPapersUrl": "https://www.restorebritain.org.uk/papers",
+    "nationalJoinUrl": "https://www.restorebritain.org.uk/join_us",
+    "nationalHomeUrl": "https://www.restorebritain.org.uk/",
+    "imprint": "Draft local branch website preview prepared for Restore Britain Southend-on-Sea Branch. National headquarters: Restore Britain, Suite 4, Millennium House, Gapton Hall Road, Great Yarmouth, Norfolk, NR31 0NL.",
+    "byElection": {
+      "enabled": true,
+      "badge": "LIVE CAMPAIGN",
+      "title": "Leigh Ward By-Election",
+      "candidate": "Rio Holder",
+      "dateISO": "2026-12-10T07:00:00Z",
+      "dateLabel": "Thursday 10 December 2026 · Polls Open 7am – 10pm",
+      "summary": "Southend-on-Sea City Council by-election following councillor resignation. Help Rio Holder take a fearless Restore Britain voice to the Civic Centre."
+    }
+  },
+  "mapHotspots": [
+    {
+      "id": "leigh",
+      "label": "Leigh Ward",
+      "shortLabel": "Leigh",
+      "sub": "By-Election · 10 Dec 2026",
+      "x": 118,
+      "y": 212,
+      "primary": true,
+      "targetTab": "news",
+      "detail": "Active by-election campaign for Rio Holder. Daily canvassing and leaflet drops across Leigh Broadway, Old Leigh, and Elm Road."
+    },
+    {
+      "id": "central",
+      "label": "Southend Central",
+      "shortLabel": "Central",
+      "sub": "Branch Meetings & Action HQ",
+      "x": 274,
+      "y": 172,
+      "primary": false,
+      "targetTab": "get-involved",
+      "detail": "Regular monthly branch meetings, strategy briefings, and community clean-up action days centred around Southend Central, Prittlewell, and Priory Park."
+    },
+    {
+      "id": "east",
+      "label": "Thorpe Bay & Shoeburyness",
+      "shortLabel": "Thorpe Bay",
+      "sub": "East Branch Outreach",
+      "x": 456,
+      "y": 112,
+      "primary": false,
+      "targetTab": "albion",
+      "detail": "Expanding ward network, street-level leaflet teams, and local coastal policy research coordinated through the Albion Initiative."
+    }
+  ],
+  "gallery": [
+    {
+      "id": "slide-1",
+      "image": "assets/photos/DSC08707.jpg",
+      "tag": "SOUTHEND-ON-SEA BRANCH",
+      "headline": "BUILDING A REAL MOVEMENT IN SOUTHEND",
+      "caption": "Branch volunteers, officers, and supporters coming together across Southend-on-Sea for community action and campaigning.",
+      "focal": "center 35%"
+    },
+    {
+      "id": "slide-2",
+      "image": "assets/photos/DEX09026.jpg",
+      "tag": "LEIGH WARD BY-ELECTION · 10 DEC",
+      "headline": "RIO HOLDER FOR LEIGH WARD",
+      "caption": "Candidate Rio Holder, Branch Organiser Dillon Bliss, and the Southend campaign team out on the streets of Leigh-on-Sea.",
+      "focal": "center 28%"
+    },
+    {
+      "id": "slide-3",
+      "image": "assets/photos/DEX09015.jpg",
+      "tag": "RESTORE BRITAIN",
+      "headline": "PRINCIPLED. FEARLESS. UNAPOLOGETICALLY BRITISH.",
+      "caption": "Standing proudly under the Restore Britain banner for common sense, accountability, and local residents first.",
+      "focal": "center center"
+    },
+    {
+      "id": "slide-4",
+      "image": "assets/photos/DSC08724.jpg",
+      "tag": "COMMUNITY ACTION DAYS",
+      "headline": "PRIDE IN OUR STREETS AND PARKS",
+      "caption": "Local volunteers putting civic pride into practice with regular community litter picks and neighbourhood clean-ups.",
+      "focal": "center 25%"
+    },
+    {
+      "id": "slide-5",
+      "image": "assets/photos/DSC08575.jpg",
+      "tag": "POLICY ON THE HIGH STREET",
+      "headline": "TAKING SERIOUS POLICY DIRECT TO VOTERS",
+      "caption": "Distributing Restore Britain's detailed national policy papers directly on local high streets across the borough.",
+      "focal": "center 25%"
+    },
+    {
+      "id": "slide-6",
+      "image": "assets/photos/DSC08760.jpg",
+      "tag": "DOORSTEP CONVERSATIONS",
+      "headline": "LISTENING TO SOUTHEND RESIDENTS",
+      "caption": "Real conversations on the doorstep and in town centres—no establishment spin, just straight answers.",
+      "focal": "center 25%"
+    },
+    {
+      "id": "slide-7",
+      "image": "assets/photos/DEX09008.jpg",
+      "tag": "ON THE GROUND IN LEIGH",
+      "headline": "COORDINATED WARD CANVASSING",
+      "caption": "Organised street teams delivering tailored campaign literature and tracking voter priorities road by road.",
+      "focal": "center 25%"
+    },
+    {
+      "id": "slide-8",
+      "image": "assets/photos/DEX09010.jpg",
+      "tag": "BRANCH MEETINGS",
+      "headline": "STRATEGY, DEBATE & CAMARADERIE",
+      "caption": "Monthly local branch socials and planning evenings where every member helps shape our next campaign.",
+      "focal": "center 30%"
+    }
+  ],
+  "mission": {
+    "eyebrow": "NATIONAL POLICY & CORE PRINCIPLES",
+    "headline": "A Serious Plan to Restore Britain",
+    "lead": "Restore Britain exists for those who believe our country has been hollowed out by weak leadership, broken institutions, and a political class that no longer serves the British people. In Southend-on-Sea, our branch campaigns on the strength of detailed, costed national policy papers—grounded in low taxes, secure borders, reliable energy, impartial law and order, free speech, and putting British citizens first.",
+    "pillars": [
+      {
+        "id": "p1",
+        "category": "Borders & Sovereignty",
+        "title": "Reverse Mass Immigration & Secure Our Borders",
+        "summary": "Restore parliamentary sovereignty over borders and citizenship, end illegal Channel crossings, establish a dedicated UK Borders and Coastal Command, and implement lawful, comprehensive removal of illegal arrivals.",
+        "paperTitle": "Mass Deportations & Maritime Domain",
+        "paperDate": "2025 – 2026"
+      },
+      {
+        "id": "p2",
+        "category": "Economy & Tax",
+        "title": "Reward the Nation's Grafters & Slash Tax",
+        "summary": "Cut wasteful state spending, abolish Inheritance Tax, abolish punitive student loan interest, overhaul bloated regulatory quango structures, and back British enterprise and working families.",
+        "paperTitle": "The Wealth of Our Nation · Abolish Inheritance Tax",
+        "paperDate": "2026"
+      },
+      {
+        "id": "p3",
+        "category": "Energy & Industry",
+        "title": "Cheap, Reliable & Abundant British Energy",
+        "summary": "End the self-inflicted Net Zero energy crisis by expanding domestic oil, gas, and nuclear (including Small Modular Reactors) to slash household bills and revive British industry.",
+        "paperTitle": "Energy Security Outlook (42-Page Blueprint)",
+        "paperDate": "May 2026"
+      },
+      {
+        "id": "p4",
+        "category": "Law & Order",
+        "title": "Make Britain Safe Again & Impartial Policing",
+        "summary": "Restore policing to its core purpose under the Office of Constable, end two-tier ideological policing, protect self-defence in the home, and rebuild frontline deterrence.",
+        "paperTitle": "Restoring British Policing · Retaking the English Castle",
+        "paperDate": "Feb – Jul 2026"
+      },
+      {
+        "id": "p5",
+        "category": "Family & Culture",
+        "title": "Back Families, Heritage & Civic Foundations",
+        "summary": "Trust parents by reforming punitive school absence fines, protect traditional British pubs and community institutions, champion free speech, and uphold a pro-British education system.",
+        "paperTitle": "Policy on School Fines · Restoring the British Pub",
+        "paperDate": "Jan – Jul 2026"
+      },
+      {
+        "id": "p6",
+        "category": "Democracy & Accountability",
+        "title": "Restore Public Trust & Election Integrity",
+        "summary": "Full transparency and accountability across public institutions, safeguarding election integrity, defending civil liberties, and returning real power to citizens through direct democracy.",
+        "paperTitle": "A Roadmap for Restoring Public Trust",
+        "paperDate": "Nov 2026"
+      }
+    ],
+    "featuredPapers": [
+      {
+        "title": "A Roadmap for Restoring Public Trust",
+        "date": "Nov 2026",
+        "topic": "Accountability"
+      },
+      {
+        "title": "A Home Fit for Heroes",
+        "date": "Oct 2026",
+        "topic": "Veterans & Housing"
+      },
+      {
+        "title": "Restoring Britain's Maritime Domain",
+        "date": "Sep 2026",
+        "topic": "Coastal Security"
+      },
+      {
+        "title": "The Return of Caveat Emptor",
+        "date": "Sep 2026",
+        "topic": "Financial Reform"
+      },
+      {
+        "title": "Philosophy of National Belonging",
+        "date": "Sep 2026",
+        "topic": "Citizenship"
+      },
+      {
+        "title": "The Wealth of Our Nation",
+        "date": "Aug 2026",
+        "topic": "Economy"
+      },
+      {
+        "title": "Policy on School Fines",
+        "date": "Jul 2026",
+        "topic": "Families"
+      },
+      {
+        "title": "Restoring British Policing",
+        "date": "Jul 2026",
+        "topic": "Policing"
+      },
+      {
+        "title": "Energy Security Outlook",
+        "date": "May 2026",
+        "topic": "Energy"
+      },
+      {
+        "title": "Abolish Inheritance Tax",
+        "date": "Mar 2026",
+        "topic": "Taxation"
+      },
+      {
+        "title": "Retaking the English Castle",
+        "date": "Feb 2026",
+        "topic": "Self-Defence"
+      },
+      {
+        "title": "Mass Deportations: Legitimacy, Legality & Logistics",
+        "date": "Oct 2025",
+        "topic": "Immigration"
+      }
+    ]
+  },
+  "news": [
+    {
+      "id": "leigh-ward-by-election-2026",
+      "featured": true,
+      "category": "By-Election",
+      "date": "2026-11-22",
+      "dateDisplay": "22 November 2026",
+      "title": "Leigh Ward By-Election: Restore Britain Campaign Shifts Into High Gear Behind Rio Holder",
+      "author": "Southend-on-Sea Branch Communications",
+      "image": "assets/photos/DEX09026.jpg",
+      "excerpt": "With polling day set for Thursday 10 December 2026, our branch has mobilised daily doorstep teams across Leigh Ward to back local businessman and lifelong Southend resident Rio Holder.",
+      "body": [
+        "Voters in Leigh Ward head to the polls on Thursday 10 December 2026 in a crucial Southend-on-Sea City Council by-election—and Restore Britain's local branch is running a high-energy, resident-first campaign behind our candidate, Rio Holder.",
+        "Born and raised in Southend and founder of local Leigh-on-Sea estate agency Enbrook, Rio knows the pressures facing local families, commuters, and independent shopkeepers along Leigh Broadway and Old Leigh firsthand. Unlike career politicians parachuted in to defend the failing council coalition, Rio is standing on plain-spoken common sense: cutting council waste, protecting local character and high streets, keeping streets safe and clean, and ensuring Leigh residents are heard rather than ignored.",
+        "Over the past fortnight, volunteers led by Branch Organiser Dillon Bliss have delivered thousands of side-by-side policy comparison leaflets across Leigh Ward, sparking hundreds of encouraging conversations on the doorstep. Residents repeatedly tell our teams that they are fed up with broken promises from Labour, the Liberal Democrats, and the Conservatives—and want a principled alternative that refuses to water down its convictions.",
+        "Polls are open from 7:00am to 10:00pm on Thursday 10 December 2026. If you live in Southend or nearby and can spare even two hours for leafleting, canvassing, or Polling Day telling, sign up through our Get Involved tab to receive immediate Action Day emails."
+      ]
+    },
+    {
+      "id": "community-cleanup-action-day",
+      "featured": false,
+      "category": "Action Days",
+      "date": "2026-11-15",
+      "dateDisplay": "15 November 2026",
+      "title": "Pride in Southend: Branch Volunteers Lead Weekend Community Clean-Up & Outreach",
+      "author": "Dillon Bliss, Branch Organiser",
+      "image": "assets/photos/DSC08707.jpg",
+      "excerpt": "Politics should be measured by action, not press releases. Over a dozen Southend-on-Sea branch members turned out with litter pickers and placards to tidy local green spaces and meet residents.",
+      "body": [
+        "Restoring Britain starts on our own doorsteps. Our Southend-on-Sea branch gathered for a weekend community clean-up action day, clearing bags of litter from local pathways and parkland while introducing residents to Restore Britain's local and national campaign.",
+        "Passers-by stopped throughout the morning to thank the team, take copies of our policy summaries, and ask how they could attend our next branch meeting. Too many political parties only appear once every four years with a glossy leaflet—we are committed to being a visible, constructive force in Southend all year round.",
+        "Thank you to every volunteer who brought energy, good humour, and genuine civic pride. Check the Get Involved tab to be notified by email before our next weekend Action Day."
+      ]
+    },
+    {
+      "id": "leigh-broadway-policy-outreach",
+      "featured": false,
+      "category": "Branch Updates",
+      "date": "2026-11-08",
+      "dateDisplay": "8 November 2026",
+      "title": "Taking National Policy Papers Direct to Southend High Streets",
+      "author": "Albion Initiative Desk",
+      "image": "assets/photos/DSC08575.jpg",
+      "excerpt": "From Energy Security to Immigration and Policing, Southend activists have been handing out physical policy briefings and debating real solutions with local shoppers and business owners.",
+      "body": [
+        "One of the clearest differences between Restore Britain and the Westminster establishment is the depth of our policy work. Rather than hiding behind vague slogans, our branch brings printed summaries of Restore Britain's national policy papers directly onto the high street.",
+        "Local business owners were especially keen to discuss Restore Britain's Energy Security Outlook—which outlines how scrapping Net Zero ideological levies and backing reliable domestic power can bring energy bills down—alongside our proposals to abolish Inheritance Tax and back traditional British pubs and high streets.",
+        "You can read every national policy document in full via our Our Mission tab, or join our Albion Initiative group to help translate national policy into Southend-specific local research."
+      ]
+    },
+    {
+      "id": "november-branch-strategy-evening",
+      "featured": false,
+      "category": "Branch Updates",
+      "date": "2026-11-02",
+      "dateDisplay": "2 November 2026",
+      "title": "Packed Branch Strategy Evening Sets Canvass Plan & Launches Albion Initiative Toolkit",
+      "author": "Southend-on-Sea Branch",
+      "image": "assets/photos/DEX09010.jpg",
+      "excerpt": "Members gathered for our monthly branch meeting to finalise Leigh Ward street-captain assignments, welcome new sign-ups, and preview new campaign leaflets produced in-house.",
+      "body": [
+        "Our latest monthly branch meeting saw our strongest turnout yet, bringing together founding activists and brand-new Restore Britain members from across Leigh, Westcliff, Prittlewell, Southchurch, and Shoeburyness.",
+        "Branch Organiser Dillon Bliss walked members through the road-by-road schedule for the Leigh Ward by-election, while the Albion Initiative unveiled our new side-by-side policy comparison leaflet designed specifically for Southend voters.",
+        "Branch meetings are friendly, welcoming, and open to verified Restore Britain members in the area. Once you join nationally via restorebritain.org.uk/join_us, you will receive email notifications ahead of every meeting and Action Day."
+      ]
+    }
+  ],
+  "getInvolved": {
+    "headline": "Join the Movement in Southend-on-Sea",
+    "lead": "Real political change is built on the ground by ordinary residents who refuse to watch Britain decline. Joining Restore Britain takes two minutes—and connects you directly to our Southend-on-Sea branch meetings and Action Day email alerts.",
+    "steps": [
+      {
+        "number": "01",
+        "title": "Join Restore Britain Nationally",
+        "description": "Sign up as an official member (£20/year) on the national Restore Britain portal using your Southend-on-Sea or local Essex address so your membership is verified under Electoral Commission rules.",
+        "highlight": "Official National Registration"
+      },
+      {
+        "number": "02",
+        "title": "Automatic Local Branch Allocation",
+        "description": "Once registered, your postcode automatically links you to our Southend-on-Sea local branch roster, connecting you with Branch Organiser Dillon Bliss and your nearest ward team.",
+        "highlight": "Southend-on-Sea Branch Roster"
+      },
+      {
+        "number": "03",
+        "title": "Receive Meeting & Action Day Emails",
+        "description": "You will begin receiving direct email notifications with dates, venues, and timings for monthly branch meetings, Leigh Ward canvassing sessions, leaflet drops, and community action days.",
+        "highlight": "Email Notifications & Briefings"
+      }
+    ],
+    "upcomingEvents": [
+      {
+        "id": "ev-1",
+        "date": "Sat 28 Nov 2026",
+        "time": "10:30 AM – 2:30 PM",
+        "title": "Leigh Ward Super-Saturday Action Day",
+        "location": "Leigh Broadway & Elm Road (Exact meet point emailed to members)",
+        "type": "Action Day"
+      },
+      {
+        "id": "ev-2",
+        "date": "Thu 3 Dec 2026",
+        "time": "7:00 PM – 9:00 PM",
+        "title": "Southend Branch Monthly Meeting & Final Polling Push",
+        "location": "Southend Central Venue (Confirmed via member email)",
+        "type": "Branch Meeting"
+      },
+      {
+        "id": "ev-3",
+        "date": "Thu 10 Dec 2026",
+        "time": "7:00 AM – 10:00 PM",
+        "title": "Leigh Ward By-Election — Polling Day Operations",
+        "location": "Leigh Ward Polling Stations & Campaign HQ",
+        "type": "Polling Day"
+      }
+    ]
+  },
+  "people": [
+    {
+      "id": "dillon-bliss",
+      "name": "Dillon Bliss",
+      "role": "Branch Organiser",
+      "ward": "Southend-on-Sea Branch",
+      "photo": "assets/photos/dillon-bliss.jpg",
+      "quote": "We are building a disciplined, welcoming, and unstoppable grassroots branch—where Southend residents don't just complain about broken politics, they organise to replace it.",
+      "bio": "As Branch Organiser for Restore Britain Southend-on-Sea, Dillon coordinates local membership growth, monthly branch meetings, street canvassing operations, and community Action Days across every ward in the city. Focused on practical organisation and principled campaigning, he works closely with local candidates and the Albion Initiative to turn national conviction into local electoral momentum.",
+      "focusAreas": [
+        "Branch Strategy & Growth",
+        "Action Day Coordination",
+        "Member Onboarding & Briefings"
+      ]
+    },
+    {
+      "id": "rio-holder",
+      "name": "Rio Holder",
+      "role": "Leigh Ward By-Election Candidate",
+      "ward": "Leigh Ward · Polling Day 10 Dec 2026",
+      "photo": "assets/photos/rio-holder.jpg",
+      "quote": "I have lived in Southend all my life. Leigh deserves a councillor who backs local families and independent businesses, stops council waste, and never folds under establishment pressure.",
+      "bio": "A lifelong Southend resident and young local entrepreneur who founded Leigh-on-Sea property agency Enbrook at 19 on the principles of straight talking and fair dealing, Rio Holder is Restore Britain's candidate in the Leigh Ward by-election on Thursday 10 December 2026. Rooted in the community and campaigning daily on local doorsteps, Rio is standing to give Leigh residents an honest, energetic, and fearless voice on Southend-on-Sea City Council.",
+      "focusAreas": [
+        "Leigh Ward By-Election (10 Dec)",
+        "Backing Local High Streets",
+        "Cutting Council Waste & Protecting Services"
+      ]
+    }
+  ],
+  "albion": {
+    "eyebrow": "BRANCH INTERNAL THINK-TANK & CAMPAIGN LAB",
+    "headline": "The Albion Initiative",
+    "subtitle": "Where local research meets practical campaign engineering.",
+    "lead": "The Albion Initiative is the Southend-on-Sea branch's internal think-tank and technical unit. Rather than relying solely on central templates, our researchers, analysts, and designers build original campaign tools, audit Southend-on-Sea City Council spending, and produce sharp, data-backed local policy briefs.",
+    "pillars": [
+      {
+        "title": "Campaign Tools & Literature",
+        "desc": "Designing high-impact doorstep comparison leaflets, ward-level canvass route sheets, and digital voter-contact tools built specifically for Essex elections."
+      },
+      {
+        "title": "Southend Council Scrutiny",
+        "desc": "Tracking council tax rises, procurement waste, planning decisions, and local infrastructure performance through Freedom of Information requests and open-data audits."
+      },
+      {
+        "title": "Local Policy Translation",
+        "desc": "Applying Restore Britain's national policy framework—energy, policing, coastal security, high-street revival—to concrete challenges facing Southend-on-Sea."
+      }
+    ],
+    "projects": [
+      {
+        "id": "alb-1",
+        "type": "Campaign Tool",
+        "status": "Deployed in Leigh",
+        "title": "Policy Comparison Matrix ('Which Side Are You Really On?')",
+        "summary": "A clear, point-by-point doorstep comparison leaflet allowing Southend voters to score party positions on borders, tax, energy, and free speech for themselves.",
+        "image": "assets/photos/DEX09026.jpg",
+        "metrics": "Delivered across Leigh Ward ahead of 10 Dec poll"
+      },
+      {
+        "id": "alb-2",
+        "type": "Research Brief",
+        "status": "In Progress",
+        "title": "Southend-on-Sea City Council Spending & Waste Audit",
+        "summary": "Line-by-line review of non-essential consultancy spend, parking revenue policies, and net-zero compliance costs affecting Southend council taxpayers.",
+        "image": "assets/photos/DEX09010.jpg",
+        "metrics": "FOI dataset under compilation for Q1 2027 release"
+      },
+      {
+        "id": "alb-3",
+        "type": "Campaign Tool",
+        "status": "Active Beta",
+        "title": "Ward Canvass & Street-Captain Mapping System",
+        "summary": "Lightweight ward walk-list generator and turnout tracking toolkit helping small volunteer teams achieve maximum household coverage per Action Day.",
+        "image": "assets/photos/DEX09008.jpg",
+        "metrics": "Covers all 17 Southend-on-Sea electoral wards"
+      },
+      {
+        "id": "alb-4",
+        "type": "Research Brief",
+        "status": "Planned",
+        "title": "High Street & Coastal Economy Revival Paper",
+        "summary": "Actionable proposals on business rates relief, parking reform, seafront safety, and supporting independent Leigh and Southend traders.",
+        "image": "assets/photos/DSC08575.jpg",
+        "metrics": "Consultation open to local Southend business owners"
+      }
+    ]
+  },
+  "donate": {
+    "statusBadge": "PLACEHOLDER · COMING SOON",
+    "headline": "Southend-on-Sea Branch Fighting Fund",
+    "lead": "Online local branch donation processing is currently being configured alongside our compliance setup. Every penny raised locally will directly fund printed leaflets, campaign boards, meeting venues, and Polling Day operations in Southend-on-Sea.",
+    "tiers": [
+      {
+        "amount": "£10",
+        "label": "Leaflet Drop",
+        "desc": "Prints 250 full-colour local ward leaflets for our volunteer street teams."
+      },
+      {
+        "amount": "£25",
+        "label": "Action Day Kit",
+        "desc": "Supports campaign materials, badges, and refreshments for a weekend Action Day."
+      },
+      {
+        "amount": "£50",
+        "label": "Ward Push",
+        "desc": "Helps fund targeted by-election literature and street boards across a key ward."
+      },
+      {
+        "amount": "£100+",
+        "label": "Campaign Patron",
+        "desc": "Directly backs branch venue hire, Albion Initiative print runs, and election deposits."
+      }
+    ],
+    "complianceNote": "Political Donations Compliance (PPERA 2000): Under the Political Parties, Elections and Referendums Act 2000, donors contributing over £500 must be registered on a UK electoral roll (excluding the Channel Islands and Isle of Man). Donations are not tax deductible and are used exclusively to support lawful political campaigning and branch operations."
+  }
+}
